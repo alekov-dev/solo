@@ -1,0 +1,30 @@
+{
+  "name": "Solo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-config-jquery": "^1.0.1",
+    "eslint-config-rallycoding": "^3.2.0",
+    "eslint-plugin-html": "^5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekov-dev/solo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alekov-dev/solo/issues"
+  },
+  "homepage": "https://github.com/alekov-dev/solo#readme"
+}
